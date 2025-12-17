@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MidnightSkulker
 - 👀 I’m interested in Functional Programming, Quauntum Computing, Blockchain
-- 🌱 I’m Ruby and Javascript
 - 💞️ I’m looking to collaborate on Quantum and Functional programming
 - 📫 How to reach me desourdesourde@gmail.com
 
